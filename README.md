@@ -65,12 +65,14 @@ This app benefits a wide range of women users, including:
 4) Increased Visibility and Business Growth: Help users expand their ventures.
 5) Skill Development: Offer ongoing education and workshops.
 
-# Section Highlights
-Savings: Smart Savings Made Simple
-
 # Overview:
 - Simplify the saving process for immigrants or individuals on dependent visas with tailored guidance.
 - Foster a strong, inclusive community where women can collaborate and support one another.
+
+# Stack Used:
+- Frontend: Framework - Flutter and Language - Dart
+- Backend: Firebase
+- API Integration: GROQ
 
 ### Invest-Sakhi is more than just an app; it's a movement to empower immigrant women with the financial knowledge and support they need to thrive.
 
